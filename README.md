@@ -19,4 +19,4 @@ Results:
 * Validation loss: ~0.43
 * Balanced performance across both classes (Precision/Recall/F1 ≈ 0.82 for “up” and “down”)
 
-Future Direction - Make an image detection model (CNN)
+Future Direction - CNN DL model to identify different types of brain tumors from MRI scans (coming soon...)
